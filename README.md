@@ -1,2 +1,9 @@
-# belajarGIT
-Tugas ini bertujuan untuk simulasi dalam menggunakan aplikasi Git &amp; GitHub dalam mengelola project tugas-tugas anda di sepanjang mata kuliah ini
+DAFTAR TUGAS / BRANCH
+1. Tugas-git
+2. Tugas-html
+3. Tugas-css
+4. Tugas-js
+5. Tugas-midProject
+6. Tugas-php
+7. Tugas-finalProject
+   
